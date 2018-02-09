@@ -1,4 +1,8 @@
 #BlueJ class context
 comment0.params=
 comment0.target=void\ print()
-numComments=1
+comment1.params=
+comment1.target=void\ wincheck()
+comment2.params=
+comment2.target=void\ reset()
+numComments=3
